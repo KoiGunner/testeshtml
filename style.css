@@ -1,0 +1,22 @@
+/*
+
+Dados para zerar a página web e colocar alguns dados nativos, como dados globais para a página inteira
+
+*/
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial;
+}
+
+.headLine {
+    width: 100%;
+    background-color: aqua;
+    height: 50px;
+}
+
+.navigationBar{
+    padding: 5px;
+    padding-top: 10px;
+}
